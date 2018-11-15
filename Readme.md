@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ExternalWebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/ExternalWebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ExternalWebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ExternalWebSite/Default.aspx.vb))
+* [Silverlight.js](./CS/SLApplication.Web/Silverlight.js) (VB: [Silverlight.js](./VB/SLApplication.Web/Silverlight.js))
+* [SLApplicationTestPage.aspx](./CS/SLApplication.Web/SLApplicationTestPage.aspx) (VB: [SLApplicationTestPage.aspx](./VB/SLApplication.Web/SLApplicationTestPage.aspx))
+* [MainPage.xaml](./CS/SLApplication/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SLApplication/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/SLApplication/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLApplication/MainPage.xaml.vb))
+<!-- default file list end -->
 # DXRichEdit - How to force images from external hosts to be loaded into RichEditControl
 
 
